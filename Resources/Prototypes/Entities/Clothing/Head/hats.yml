@@ -564,3 +564,14 @@
     modifiers:
       coefficients:
         Blunt: 0.95
+        
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCap
+  name: Фуражка милиционера
+  description: Любимая фуражка милиционера, в ней они чувствуют власть.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/cap.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/cap.rsi

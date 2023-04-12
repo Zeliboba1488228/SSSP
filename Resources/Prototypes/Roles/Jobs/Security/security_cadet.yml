@@ -27,6 +27,7 @@
     shoes: ClothingShoesBootsLaceup
     id: SecurityCadetPDA
     ears: ClothingHeadsetSecurity
+    head: ClothingHeadHatCap
   innerclothingskirt: ClothingUniformJumpskirtColorRed
   satchel: ClothingBackpackSatchelSecurityFilled
   duffelbag: ClothingBackpackDuffelSecurityFilled
