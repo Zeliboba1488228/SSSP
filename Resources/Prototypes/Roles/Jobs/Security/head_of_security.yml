@@ -32,12 +32,12 @@
 - type: startingGear
   id: HoSGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitHoS
+    jumpsuit: ClothingUniformJumpsuitHoSBlue
     back: ClothingBackpackHOSFilled
     shoes: ClothingShoesBootsLaceup
     outerClothing: ClothingOuterCoatHoSTrench
     eyes: ClothingEyesGlassesSecurity
-    head: ClothingHeadHatBeretHoS
+    head: ClothingHeadHatCap
     id: HoSPDA
     gloves: ClothingHandsGlovesCombat
     ears: ClothingHeadsetAltSecurity
